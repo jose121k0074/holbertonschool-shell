@@ -7,3 +7,5 @@ files:
 * 5-listfilesdigitonly - display current directory contens with long format, group IDs and hidden files
 * 6-firstdirectory - create a directory named my_first_directory in the tmp directory
 * 7-movethatfile - move the file betty fro /tmp to /tmp/my_first_directory.
+* 8-firstdelete - delete the file betty.
+* 9-firstdirdelete - delete the directory my_first_direcory that is in the /tmp directory
