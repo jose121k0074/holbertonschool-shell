@@ -14,3 +14,4 @@ files:
 * 12-file_type - print the type of the file name
 * 13-symbolic_link - create a symbolic link to /bin/ls, name __ls__.
 * 14-copy_html - copies all the htmll files from the current working directory to the parent of the working directory.
+* 15-lets_move - moves all files beginning with an uppercase letter to the directory /tmp/u
