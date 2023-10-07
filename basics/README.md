@@ -9,3 +9,4 @@ files:
 * 7-movethatfile - move the file betty fro /tmp to /tmp/my_first_directory.
 * 8-firstdelete - delete the file betty.
 * 9-firstdirdelete - delete the directory my_first_direcory that is in the /tmp directory
+* 10-back - change the working directory to the previous one.
