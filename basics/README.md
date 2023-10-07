@@ -12,3 +12,4 @@ files:
 * 10-back - change the working directory to the previous one.
 * 11-lists - lists files in the current directory and the parent of the working directory an the /boot directory.
 * 12-file_type - print the type of the file name
+* 13-symbolic_link - create a symbolic link to /bin/ls, name __ls__.
