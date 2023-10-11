@@ -11,3 +11,4 @@ description of what each script does
 - 8-James_Bond - sets the permission 007 to he file
 - 9-John_Doe - sets the mode of the file to this: -rwxr-x-wx
 - 10-mirror_permissions -sets the mode of the file the same as file's mode
+- 11-directories_permissions - adds execute permissions to all subdirectories of the current directory fot the owner, the group owner and all other users. inore regular files.
