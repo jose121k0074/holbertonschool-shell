@@ -10,3 +10,4 @@ description of what each script does
 - 7-everibody - adds execution permission to the owner, the group owner and ther other users, to the file
 - 8-James_Bond - sets the permission 007 to he file
 - 9-John_Doe - sets the mode of the file to this: -rwxr-x-wx
+- 10-mirror_permissions -sets the mode of the file the same as file's mode
