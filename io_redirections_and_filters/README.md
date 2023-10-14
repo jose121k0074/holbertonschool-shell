@@ -5,3 +5,20 @@ List File Content:
 - 3-twofiles - display the content of /etc/passwd and /etc/hosts
 - 4-laslines - display the last 10 lines of the file
 - 5-firstlines - display the first 10 lines of the file
+- 6-third_line - display the third line of the file
+- 7-file - creates a file named exactrly with content
+- 8-cwd_state - script tha writes into the file ls_cwd_content the result of the command
+- 9-duplicate_last_line - script tha duplicate the last line of the file
+- 10-no_more_js - deletes all the regular files with a .js extension
+- 11-directories - script that counts the number of directories and subdirectories in the current directory
+- 12-newest_files - script that displays the 10 newest files the current directory
+- 13-unique - takes a list of words as input and prints only words that appear exactly once
+- 14-findthatword - display lines containing the pattern root from the file
+- 15-countthatword - display the number of lines that contain the pattern bin in the file
+- 16-whatsnext - display lines containing the pattern root and 3 lines after them in the file
+- 17-hidethisword - display all the lines in the file that do not contain the pattern bin
+- 18-letteronly - display all lines of the file starting with a letter
+- 19-AZ - replace all characters from input
+- 20-hiago removes all letter using traslate tr
+- 21-reverse - reverse its inputs
+- 22-users_and_homes - display all users and their home directories, sorted by users
